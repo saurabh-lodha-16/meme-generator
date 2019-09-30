@@ -61,6 +61,7 @@ class MemeGenerator extends Component {
           <h2 className="top">{this.state.topText}</h2>
           <h2 className="bottom">{this.state.bottomText}</h2>
         </div>
+        <p className="self"> Had to be created by - Saurabh Lodha &#10084;</p>
       </div>
     );
   }

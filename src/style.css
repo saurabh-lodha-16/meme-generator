@@ -117,3 +117,12 @@ header > p {
   font-size: 18px;
   text-align: cen;
 }
+
+.self {
+  padding: 10px;
+  font-family: VT323, monospace;
+  color: black;
+  font-size: 24px;
+  margin-top: 130px;
+  margin-left: 30px;
+}
